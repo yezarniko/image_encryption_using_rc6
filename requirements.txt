@@ -1,0 +1,4 @@
+climage==0.2.0
+numpy==1.26.4
+pillow==10.3.0
+setuptools==70.0.0
